@@ -1,0 +1,32 @@
+{
+  "name": "calulators",
+  "version": "1.0.0",
+  "description": "calculator function should also run ping-pong",
+  "main": "index.js",
+  "dependencies": {
+    "bower-files": "^4.0.0",
+    "browser-sync": "^2.18.13",
+    "browserify": "^14.4.0",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/austinawesome/newCalculator.git"
+  },
+  "keywords": [
+    "javascript",
+    "focused"
+  ],
+  "author": "Austin Cummings",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/austinawesome/newCalculator/issues"
+  },
+  "homepage": "https://github.com/austinawesome/newCalculator#readme"
+}
